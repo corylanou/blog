@@ -2,21 +2,50 @@
 
 ## What is Go
 
+Go is a modern day "C" replacement. With features like garbage collection, 
+blazing fast compile and build cycles, and designed for multi-core computers,
+Go has become the language of choice for many companies.
+
+Go was created by an all-star team: 
+[Robert Griesemer](http://en.wikipedia.org/wiki/Robert_Griesemer), 
+[Rob Pike](http://en.wikipedia.org/wiki/Rob_Pike) and 
+[Ken Thompson](http://en.wikipedia.org/wiki/Ken_Thompson).
+Notable accomplishments of these individuals include creating Unix, UTF-8, Plan 9,
+and the V8 Javascriptengine, and more.
+
 ## Why Go
 
 Go was created to solve problems of scale.  Not just machine scale, but human
 scale as well.  In today's software world, cycles matter.  Every time a developer
 has to wait for a test suite to run, or a build to finish, it costs money.
 
-Let us do some simple math.  If we pay a developer a $90,000 salary, that is the
-equivalent of $0.72 an hour.  If, on average, a developer waits 20 minutes per
-day for testing and compiling to complete, that is $72/week, or $3,750.  Now, that
-doesn't sound horrible, but if you take that across a team of 100 developers, now
-$375,000 per year.  Considering that in many languages, we spend much more time
-than that waiting for tests and builds, it's even worse.  I can't imagine what
-it costs Google annually.
+Taken directly from the [Go FAQ](https://golang.org/doc/faq):
+
+###What is the purpose of the project?
+
+No major systems language has emerged in over a decade, but over that time the computing landscape has changed tremendously. There are several trends:
+
+- Computers are enormously quicker but software development is not faster.
+- Dependency management is a big part of software development today but the “header files” of languages in the C tradition are antithetical to clean dependency analysis—and fast compilation.
+- There is a growing rebellion against cumbersome type systems like those of Java and C++, pushing people towards dynamically typed languages such as Python and JavaScript.
+- Some fundamental concepts such as garbage collection and parallel computation are not well supported by popular systems languages.
+- The emergence of multicore computers has generated worry and confusion.
+
+We believe it's worth trying again with a new language, a concurrent, garbage-collected language with fast compilation. Regarding the points above:
+
+- It is possible to compile a large Go program in a few seconds on a single computer.
+- Go provides a model for software construction that makes dependency analysis easy and avoids much of the overhead of C-style include files and libraries.
+- Go's type system has no hierarchy, so no time is spent defining the relationships between types. Also, although Go has static types the language attempts to make types feel lighter weight than in typical OO languages.
+- Go is fully garbage-collected and provides fundamental support for concurrent execution and communication.
+- By its design, Go proposes an approach for the construction of system software on multicore machines.
 
 ## What are companies using Go for
+
+Leading software companies such as Google, Apple, Facebook, Wal-mart labs, Comcast, 
+SendGrid, DropBox, Docker, and more are rapidly adopting Go.
+The variety of problems being solved is diverse. There is a large focus on DevOps, 
+but also range from applications like command line interface, api and api wrappers, logging 
+and analytic services, and more.
 
 ## Am I ready to learn Go at gSchool
 
@@ -31,9 +60,4 @@ that modern education should be taught in the same environment that a
 student will work in when graduating.  Placing classrooms inside of Galvanize
 allows students to interact with companies outside of class that are working
 with their technology.  This close proximity builds a network that students
-take with them into their careers.  We have several partnerships with leading
-local technology
-
-We teach modern software design with the tools the industry is currently using,
-such as git and github.com, Pivotal Tracker, Atom.io, advanced command line
-usage, and much more.
+take with them into their careers.
