@@ -5,7 +5,7 @@
 Go is a fast, concurrent, general purpose programming language designed to excel
 in a wide range of roles, including those traditionally left to C, while still
 facilitating the kind of rapid development styles associated with popular
-dynamically-typed languages.  With garbage collection, blazing fast compile
+dynamically-typed languages. With garbage collection, blazing fast compile
 times, and a design that embraces modern multicore computing, Go has become the
 language of choice for many companies.
 
@@ -62,9 +62,9 @@ that you already have some base level of software knowledge.
 
 ## Why choose gSchool to learn Go?
 
-gSchool is more than just a classroom with expert instructors.  We believe
+gSchool is more than just a classroom with expert instructors. We believe
 that modern education should be taught in the same environment that a
-student will work in after graduating.  Placing classrooms inside of Galvanize
+student will work in after graduating. Placing classrooms inside of Galvanize
 allows students to interact with companies outside of class that are working
-with their technology.  This close proximity builds a network that students
+with their technology. This close proximity builds a network that students
 take with them into their careers.
