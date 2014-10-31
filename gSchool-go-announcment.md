@@ -47,7 +47,7 @@ The variety of problems being solved is diverse. There is a large focus on DevOp
 but also range from applications like command line interface, api and api wrappers, logging 
 and analytic services, and more.
 
-[http://pivotallabs.com/team/executives/](Rob Mee, SVP of R&D) at [http://pivotallabs.com/](Pivotal) recently stated:
+[Rob Mee, SVP of R&D](http://pivotallabs.com/team/executives/) at [Pivotal Labs](http://pivotallabs.com/) recently stated:
 Galvanize’s gSchool is the only external immersive program that consistently produces the industry-ready engineers that can meet Pivotal’s standards. 
 We have made a big commitment to Go, and are excited to show our support for the gSchool Go Microservices program by declaring our intent to hire up to 10 qualifying engineers to join the Cloud Foundry engineering team."
 
