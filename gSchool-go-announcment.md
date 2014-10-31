@@ -1,4 +1,4 @@
-# gSchool and Go
+# gSchool announces Go Microservices Track
 
 ## What is Go?
 
