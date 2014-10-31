@@ -48,7 +48,7 @@ but also range from applications like command line interface, api and api wrappe
 and analytic services, and more.
 
 [Rob Mee, SVP of R&D](http://pivotallabs.com/team/executives/) at [Pivotal Labs](http://pivotallabs.com/) recently stated:
-Galvanize’s gSchool is the only external immersive program that consistently produces the industry-ready engineers that can meet Pivotal’s standards. 
+"Galvanize’s gSchool is the only external immersive program that consistently produces the industry-ready engineers that can meet Pivotal’s standards. 
 We have made a big commitment to Go, and are excited to show our support for the gSchool Go Microservices program by declaring our intent to hire up to 10 qualifying engineers to join the Cloud Foundry engineering team."
 
 ## Am I ready to learn Go at gSchool
