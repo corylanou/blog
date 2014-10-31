@@ -13,8 +13,11 @@ Go was created by an all-star team:
 [Robert Griesemer](http://en.wikipedia.org/wiki/Robert_Griesemer),
 [Rob Pike](http://en.wikipedia.org/wiki/Rob_Pike) and
 [Ken Thompson](http://en.wikipedia.org/wiki/Ken_Thompson).
-Notable accomplishments and contributions of these individuals include Unix,
-UTF-8, Plan 9, and the V8 JavaScript engine.
+Notable accomplishments and contributions of these individuals include
+[Unix](http://en.wikipedia.org/wiki/Unix),
+[UTF-8](http://en.wikipedia.org/wiki/UTF-8),
+[Plan 9](http://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs),
+and the [V8 JavaScript engine](http://en.wikipedia.org/wiki/V8_(JavaScript_engine)).
 
 ## Why Go?
 
