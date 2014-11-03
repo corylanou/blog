@@ -13,7 +13,28 @@ according to [indeed.com](http://www.indeed.com/).
 
 [Learn more and apply now!](http://www.galvanize.it/gschool-denver-go)
 
+## What will I learn?
 
+We will focus heavily on Microservice Architecture.  Microservice Architecture is a way
+of desiging large applications that can be independantly deployed. Many
+Paas and Sass systems, such as Docker, Cloud Foundry, and more, currently employ this approach.
+
+We will also teach Idiomatic Go.  This goes beyond just the fundamentals, but will teach
+currently accepted practices and design.  Additionally you will learn the Go tool chain,
+including automated testing, benchmarking, and more.
+
+In depth topics also include:
+
+- Authentication Models
+- Secruity Models
+- Scalibility
+- Persistence
+- Consistency
+- HTTP Semantics
+- RESTful design utilitzing HTTP semantics and JSON
+- CLI command-line interface programming
+- Automated Deployment
+- Social Programming
 
 ## Why choose gSchool to learn Go?
 
