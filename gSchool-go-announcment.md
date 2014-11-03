@@ -1,5 +1,36 @@
 # gSchool announces Go Microservices Track
 
+## Am I ready to learn Go at gSchool?
+
+If you have at least 2 years of production software experience, the answer is
+yes!  With a 12 week compressed curriculum, it's important that you already
+have some base level of software knowledge.
+
+## Why choose gSchool to learn Go?
+
+gSchool is more than just a classroom with expert instructors. We believe that
+modern education should be taught in the same environment that a student will
+work in after graduating. Placing classrooms inside of Galvanize allows
+students to interact with companies outside of class that are working with
+their technology. This close proximity builds a network that students take with
+them into their careers.
+
+## What are companies using Go for?
+
+Leading software companies such as Google, Apple, Facebook, Wal-mart labs,
+Comcast, SendGrid, DropBox, Docker, and more are rapidly adopting Go. The
+variety of problems being solved is diverse. There is a large focus on DevOps,
+but also range from applications like command line interface, api and api
+wrappers, logging and analytic services, and more.
+
+[Rob Mee, SVP of R&D](http://pivotallabs.com/team/executives/) at
+[Pivotal Labs](http://pivotallabs.com/) recently stated: "Galvanize's gSchool
+is the only external immersive program that consistently produces the
+industry-ready engineers that can meet Pivotal's standards.  We have made a big
+commitment to Go, and are excited to show our support for the gSchool Go
+Microservices program by declaring our intent to hire up to 10 qualifying
+engineers to join the Cloud Foundry engineering team."
+
 ## What is Go?
 
 Go is a fast, concurrent, general purpose programming language designed to
@@ -57,34 +88,3 @@ garbage-collected language with fast compilation. Regarding the points above:
   execution and communication.
 - By its design, Go proposes an approach for the construction of system
   software on multicore machines.
-
-## What are companies using Go for?
-
-Leading software companies such as Google, Apple, Facebook, Wal-mart labs,
-Comcast, SendGrid, DropBox, Docker, and more are rapidly adopting Go. The
-variety of problems being solved is diverse. There is a large focus on DevOps,
-but also range from applications like command line interface, api and api
-wrappers, logging and analytic services, and more.
-
-[Rob Mee, SVP of R&D](http://pivotallabs.com/team/executives/) at
-[Pivotal Labs](http://pivotallabs.com/) recently stated: "Galvanize's gSchool
-is the only external immersive program that consistently produces the
-industry-ready engineers that can meet Pivotal's standards.  We have made a big
-commitment to Go, and are excited to show our support for the gSchool Go
-Microservices program by declaring our intent to hire up to 10 qualifying
-engineers to join the Cloud Foundry engineering team."
-
-## Am I ready to learn Go at gSchool?
-
-If you have at least 2 years of production software experience, the answer is
-yes!  With a 12 week compressed curriculum, it's important that you already
-have some base level of software knowledge.
-
-## Why choose gSchool to learn Go?
-
-gSchool is more than just a classroom with expert instructors. We believe that
-modern education should be taught in the same environment that a student will
-work in after graduating. Placing classrooms inside of Galvanize allows
-students to interact with companies outside of class that are working with
-their technology. This close proximity builds a network that students take with
-them into their careers.
