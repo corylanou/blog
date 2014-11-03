@@ -6,7 +6,13 @@ If you have at least 2 years of production software experience, the answer is
 yes!  With a 12 week compressed curriculum, it's important that you already
 have some base level of software knowledge.
 
+Average Go salaries in 
+[Denver are $113,000/year](http://www.indeed.com/salary?q1=Golang&l1=Denver%2C+CO) 
+and [$160,000/year in San Fransisco](http://www.indeed.com/salary/q-Golang-l-San-Francisco,-CA.html).
+
 [Learn more and apply now!](http://www.galvanize.it/gschool-denver-go)
+
+
 
 ## Why choose gSchool to learn Go?
 
