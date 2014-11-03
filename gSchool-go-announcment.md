@@ -8,7 +8,8 @@ have some base level of software knowledge.
 
 Average Go salaries in 
 [Denver are $113,000/year](http://www.indeed.com/salary?q1=Golang&l1=Denver%2C+CO) 
-and [$160,000/year in San Fransisco](http://www.indeed.com/salary/q-Golang-l-San-Francisco,-CA.html).
+and [$160,000/year in San Fransisco](http://www.indeed.com/salary/q-Golang-l-San-Francisco,-CA.html)
+according to [indeed.com](http://www.indeed.com/).
 
 [Learn more and apply now!](http://www.galvanize.it/gschool-denver-go)
 
